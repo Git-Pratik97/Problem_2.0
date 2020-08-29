@@ -5,7 +5,7 @@ Created on Fri Aug 28 22:21:31 2020
 @author: prati
 """
 
-s = "06:06:30AM"
+s = input()
 
 s = s.split(":")
 
